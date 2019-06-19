@@ -46,7 +46,9 @@
     <Compile Include="CreationalPatterns-Criacional\Singleton.cs" />
     <Compile Include="CreationalPatterns-Criacional\Singleton2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StructuralPatterns-Estrutural\Adapter.cs" />
+    <Compile Include="StructuralPatterns-Estrutural\Adapter1.cs" />
+    <Compile Include="StructuralPatterns-Estrutural\Adapter2.cs" />
+    <Compile Include="StructuralPatterns-Estrutural\Adapter3.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="BehavioralPatterns-Comportamental\" />

@@ -111,7 +111,7 @@ namespace Design_Patterns.StructuralPatterns_Estrutural
         }
     }
 
-    public class Adapter
+    public class Adapter1
     {
         public static void Main()
         {
